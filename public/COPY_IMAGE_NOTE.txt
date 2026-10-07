@@ -1,0 +1,7 @@
+Please manually copy this file to your public folder:
+
+Source: C:\Users\akash\.gemini\antigravity-ide\brain\690da3c4-8642-490e-b617-2086568dc6e5\cgc_hero_campus_1791388362818.jpg
+Destination: c:\akash_work\landing_page_1oct\public\campus-hero.jpg
+
+Run in PowerShell:
+Copy-Item "C:\Users\akash\.gemini\antigravity-ide\brain\690da3c4-8642-490e-b617-2086568dc6e5\cgc_hero_campus_1791388362818.jpg" "c:\akash_work\landing_page_1oct\public\campus-hero.jpg"
